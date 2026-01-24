@@ -27,7 +27,6 @@ I didn’t. That already puts you ahead.
 
 ### 1. Pandas — MASTER LEVEL (Current Focus)
 
-
 You should master:
 
 * DataFrame internals (index, Series, alignment)
@@ -87,7 +86,7 @@ Learn:
 
 > Only now should models appear.
 
-### Learn in this order:
+### Learn in this order
 
 1. Train/Test split
 2. Preprocessing:
@@ -184,3 +183,6 @@ Model Evaluation
 Real Projects
 ```
 
+## -------------------------------------- Days 2 --------------------------------------------
+
+|
