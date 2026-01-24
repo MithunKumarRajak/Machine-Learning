@@ -5,9 +5,7 @@
 
 ---
 
-## PHASE 0 — MENTAL FOUNDATION (YOU ALREADY STARTED THIS)
-
-### ✔ What you figured out yourself
+## PHASE 0 — MENTAL FOUNDATION
 
 * ML is not magic → it is math + data
 * Data quality dominates model quality
@@ -23,9 +21,7 @@ I didn’t. That already puts you ahead.
 
 ## PHASE 1 — DATA THINKING FIRST (CORE FOUNDATION)
 
-> **This phase makes or breaks ML engineers**
-
-### 1. Pandas — MASTER LEVEL (Current Focus)
+### 1. Pandas — MASTER LEVEL
 
 You should master:
 
@@ -165,7 +161,7 @@ These are **branches**, not roots.
 
 ---
 
-## YOUR ROADMAP VISUAL (MENTAL MAP)
+## ROADMAP VISUAL
 
 ```
 Mindset
