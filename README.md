@@ -1,7 +1,7 @@
 
 # MACHINE LEARNING ROADMAP
 
-*(Beginner → Practitioner, Depth-First)*
+*(Beginner → Practitioner)*
 
 ---
 
@@ -33,7 +33,6 @@ You should master:
 * Data types
 * String cleaning
 * DateTime handling
-* `groupby`, `merge`, `apply`
 * Safe mutation & copies
 
 🎯 Goal:
@@ -42,7 +41,7 @@ You should master:
 
 ---
 
-### 2. Data Cleaning as a Skill (Not Code)
+### 2. Data Cleaning as a Skill
 
 You must be able to answer:
 
@@ -51,12 +50,11 @@ You must be able to answer:
 * Will this create bias?
 * Is this column meaningful?
 
-This is **ML thinking**, not syntax.
+This is **ML thinking**
 
 ---
 
-## PHASE 2 — NUMPY (JUST ENOUGH, NOT TOO MUCH)
-
+## PHASE 2 — NUMPY
 > NumPy is the **engine**, not the driver seat.
 
 Learn:
@@ -90,11 +88,11 @@ Learn:
    * Scaling
    * Encoding
    * Pipelines
-3. Simple models:
+4. Simple models:
 
    * Linear Regression
    * Logistic Regression
-4. Model evaluation:
+5. Model evaluation:
 
    * Accuracy
    * Precision/Recall
@@ -129,7 +127,7 @@ Learn only what improves decisions:
 
 ---
 
-## PHASE 5 — REAL DATA PROJECTS (TRANSFORMATION PHASE)
+## PHASE 5 — REAL DATA PROJECTS
 
 This is where you **become an ML practitioner**.
 
@@ -178,9 +176,5 @@ Model Evaluation
  ↓
 Real Projects
 ```
+```
 
-
---- 
-## -------------------------------------- Days 2 ------------------------------------
-
-## Cleaning Data
