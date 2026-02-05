@@ -177,10 +177,9 @@ Model Evaluation
 Real Projects
 ```
 
-Actual Roadmap following:-
+## Actual Roadmap following:-
 
----
-
+```
 Pandas
   ↓
 Matplotlib 
@@ -192,5 +191,4 @@ Scikit-learn
 Model Evaluation
   ↓
 Projects
-
----
+```
