@@ -159,7 +159,7 @@ These are **branches**, not roots.
 
 ---
 
-## ROADMAP VISUAL
+## OVERALL ROADMAP VISUAL
 
 ```
 Mindset
@@ -177,3 +177,17 @@ Model Evaluation
 Real Projects
 ```
 
+Actual Roadmap following:-
+---
+
+* Pandas
+  ↓
+* Matplotlib 
+  ↓
+* Seaborn
+  ↓
+* Scikit-learn
+  ↓
+* Model Evaluation
+  ↓
+ Projects
