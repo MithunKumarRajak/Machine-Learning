@@ -181,16 +181,16 @@ Actual Roadmap following:-
 
 ---
 
-* Pandas
+Pandas
   ↓
-* Matplotlib 
+Matplotlib 
   ↓
-* Seaborn
+Seaborn
   ↓
-* Scikit-learn
+Scikit-learn
   ↓
-* Model Evaluation
+Model Evaluation
   ↓
- Projects
+Projects
 
 ---
