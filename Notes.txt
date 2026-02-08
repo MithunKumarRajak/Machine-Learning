@@ -1,0 +1,29 @@
+Summary Rules- 
+Folder → /FolderName/
+- File → FileName.extension
+- Root folder/file → /Name (शुरुआत में / लगाने से Git सिर्फ root directory में देखेगा)
+- All files of same type → *.extension (जैसे *.ipynb सभी Jupyter notebooks ignore करेगा)
+
+
+-------------------------------------------
+
+- folder/ → इसका मतलब है कि पूरा folder ignore होगा, और उसके अंदर की सारी files भी
+
+- /folder/ → यह root directory से relative path है। यानी सिर्फ root में मौजूद folder ignore होगा, लेकिन subdirectories में उसी नाम का folder ignore नहीं होगा।
+
+- file.txt → यह हर जगह मौजूद file.txt को ignore करेगा (root और subfolders दोनों में)।
+
+- /file.txt → यह सिर्फ root directory में मौजूद file.txt को ignore करेगा। Subfolders में अगर file.txt है तो वो ignore नहीं होगा
+
+- *.log → सभी .log extension वाली files ignore होंगी (हर folder में)
+
+- **/temp/ → किसी भी depth पर मौजूद temp नाम का folder ignore होगा
+
+
+- *.log
+- !important.log
+→ इसका मतलब है कि सभी .log files ignore होंगी, लेकिन important.log को ignore नहीं किया जाएगा।
+यह useful है जब आप किसी folder को ignore करना चाहते हैं लेकिन उसमें कुछ specific files को track करना चाहते हैं
+
+
+- docs/*.pdf → सिर्फ docs folder के अंदर की .pdf files ignore होंगी
