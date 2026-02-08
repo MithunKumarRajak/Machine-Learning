@@ -10,3 +10,8 @@
 *.gitignore linguist-detectable=false
 *.csv linguist-detectable=false
 *.json linguist-detectable=false
+
+
+
+Yes — that’s expected.
+The reason GitHub is only showing Jupyter Notebook is because Linguist can’t actually assign two languages to the same file.
