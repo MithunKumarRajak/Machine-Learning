@@ -1,0 +1,12 @@
+# Force notebooks to be recognized as Python
+*.ipynb linguist-language=Python
+
+# Still allow Jupyter Notebook to appear
+*.ipynb linguist-detectable=true
+*.ipynb linguist-language=Jupyter Notebook
+
+# Exclude non-code files from stats
+*.md linguist-detectable=false
+*.gitignore linguist-detectable=false
+*.csv linguist-detectable=false
+*.json linguist-detectable=false
